@@ -1,0 +1,60 @@
+2021-05-24 15:42:29,820 - root - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-05-24 15:42:29,837 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-05-24 15:42:34,498 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-05-24 15:42:36,134 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-05-24 15:42:36,430 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-05-24 15:42:36,517 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-05-24 15:44:07,681 - root - INFO - example_simple already completed, skipping non-linear search.
+2021-05-24 16:14:02,279 - root - INFO - example_simple already completed, skipping non-linear search.
+2021-05-24 16:16:29,227 - root - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-05-24 16:16:29,240 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-05-24 16:16:32,295 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-05-24 16:16:32,605 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-05-24 16:16:32,874 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-05-24 16:16:32,955 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-05-24 16:17:00,297 - root - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-05-24 16:17:00,316 - root - INFO - No Emcee samples found, beginning new non-linear search.
+2021-05-24 16:17:03,027 - root - INFO - 500 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-05-24 16:17:04,111 - root - INFO - Emcee sampling complete.
+2021-05-24 16:17:04,113 - root - INFO - 1000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-05-24 16:17:27,476 - root - INFO - example_complex already completed, skipping non-linear search.
+2021-05-24 16:21:35,720 - root - INFO - example_simple already completed, skipping non-linear search.
+2021-05-24 16:21:53,225 - root - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-05-24 16:21:53,242 - root - INFO - No Emcee samples found, beginning new non-linear search.
+2021-05-24 16:22:00,093 - root - INFO - 500 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-05-24 16:22:08,888 - root - INFO - 1000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-05-24 16:22:19,415 - root - INFO - 1500 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-05-24 16:22:31,940 - root - INFO - 2000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-05-24 16:22:39,507 - root - INFO - Emcee sampling complete.
+2021-05-24 16:22:39,519 - root - INFO - 2500 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-05-24 16:22:45,691 - root - WARNING - Too few points to create valid contours
+2021-05-24 16:22:45,724 - root - WARNING - Too few points to create valid contours
+2021-05-24 16:22:45,745 - root - WARNING - Too few points to create valid contours
+2021-05-24 16:22:45,775 - root - WARNING - Too few points to create valid contours
+2021-05-24 16:22:45,797 - root - WARNING - Too few points to create valid contours
+2021-05-24 16:22:45,817 - root - WARNING - Too few points to create valid contours
+2021-05-24 16:33:22,317 - root - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-05-24 16:33:22,338 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-05-24 16:33:25,480 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-05-24 16:33:25,807 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-05-24 16:33:26,071 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-05-24 16:33:26,149 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-05-24 16:33:46,766 - root - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-05-24 16:33:46,783 - root - INFO - No Emcee samples found, beginning new non-linear search.
+2021-05-24 16:34:25,764 - root - INFO - Existing Emcee samples found, resuming non-linear search.
+2021-05-24 16:34:25,765 - root - INFO - Emcee sampling complete.
+2021-05-24 16:34:25,770 - root - INFO - 2500 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-05-24 16:34:28,379 - root - WARNING - Too few points to create valid contours
+2021-05-24 16:34:28,405 - root - WARNING - Too few points to create valid contours
+2021-05-24 16:34:28,422 - root - WARNING - Too few points to create valid contours
+2021-05-24 16:34:28,447 - root - WARNING - Too few points to create valid contours
+2021-05-24 16:34:28,464 - root - WARNING - Too few points to create valid contours
+2021-05-24 16:34:28,483 - root - WARNING - Too few points to create valid contours
+2021-05-24 18:12:45,231 - root - INFO - example_simple already completed, skipping non-linear search.
+2021-05-24 18:13:11,880 - root - INFO - example_complex already completed, skipping non-linear search.
+2021-05-24 18:13:22,652 - root - WARNING - Too few points to create valid contours
+2021-05-24 18:13:22,678 - root - WARNING - Too few points to create valid contours
+2021-05-24 18:13:22,760 - root - WARNING - Too few points to create valid contours
+2021-05-24 18:13:22,786 - root - WARNING - Too few points to create valid contours
+2021-05-24 18:13:22,803 - root - WARNING - Too few points to create valid contours
+2021-05-24 18:13:22,820 - root - WARNING - Too few points to create valid contours

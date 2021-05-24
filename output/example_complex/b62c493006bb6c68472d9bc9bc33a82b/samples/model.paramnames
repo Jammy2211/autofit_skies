@@ -1,0 +1,4 @@
+gaussian_intensity                                                    I_i
+gaussian_centre                                                       x_c
+exponential_intensity                                                 I_i
+exponential_rate                                                      \lambda_r

@@ -1,0 +1,26 @@
+Bayesian Evidence                                                                         -65.29430125
+Maximum Log Likelihood                                                                    -49.30991796
+Maximum Log Posterior                                                                     753472.28227018
+
+Maximum Log Likelihood Model:
+
+centre                                                                                    49.778
+intensity                                                                                 25.093
+sigma                                                                                     10.033
+
+
+Summary (3.0 sigma limits):
+
+centre                                                                                    49.74 (49.37, 50.13)
+intensity                                                                                 25.09 (24.33, 25.97)
+sigma                                                                                     10.05 (9.68, 10.45)
+
+
+Summary (1.0 sigma limits):
+
+centre                                                                                    49.74 (49.69, 49.80)
+intensity                                                                                 25.09 (24.99, 25.26)
+sigma                                                                                     10.05 (9.98, 10.12)
+
+instances
+
