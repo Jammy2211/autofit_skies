@@ -6,8 +6,7 @@ This project contains the hands-on demonstration for **PyAutoFit** for the confe
 The project contains four example Jupyter notebooks:
 
 - ``example_1_introduction.ipynb`` - An introduction to **PyAutoFit**'s core features.
-- ``example_2_lensing.ipynb`` and ``example_3_topological_models.ipynb`` - An Astronomy example which uses strong
-gravitational lensing to illustrate topological model composition with **PyAutoFit**.
+- ``example_2_lensing.ipynb`` & ``example_3_topological_models.ipynb`` - An Astronomy example which uses strong gravitational lensing to illustrate topological model composition with **PyAutoFit**.
 
 Binder (Recommended)
 --------------------
