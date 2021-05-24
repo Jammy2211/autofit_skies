@@ -2,6 +2,10 @@ PyAutoFit Skies
 ===============
 
 This project contains the hands-on demonstration for **PyAutoFit** for the conference "Where the Earth Meets the Sky".
+More information about **PyAutoFit** can be found at the following links:
+
+https://github.com/rhayes777/PyAutoFit
+https://pyautofit.readthedocs.io/en/latest/
 
 The project contains four example Jupyter notebooks:
 
