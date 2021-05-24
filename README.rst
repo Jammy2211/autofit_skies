@@ -14,7 +14,7 @@ Binder (Recommended)
 The tutorials can be taken in a internet browser, without local **PyAutoFit** installation, by going to the following
 web link:
 
- https://mybinder.org/v2/gh/Jammy2211/autofit_skies/HEAD
+https://mybinder.org/v2/gh/Jammy2211/autofit_skies/HEAD
 
 Installation
 ------------
