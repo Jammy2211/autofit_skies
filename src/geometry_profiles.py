@@ -74,8 +74,7 @@ class GeometryProfile:
             -np.multiply(grid[:, :, 1], sin_angle),
         )
         transformed_grid[:, :, 1] = np.add(
-            np.multiply(grid[:, :, 0], sin_angle),
-            np.multiply(grid[:, :, 1], cos_angle)
+            np.multiply(grid[:, :, 0], sin_angle), np.multiply(grid[:, :, 1], cos_angle)
         )
 
         return transformed_grid

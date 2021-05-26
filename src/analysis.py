@@ -6,12 +6,7 @@ import autofit as af
 
 
 class Analysis(af.Analysis):
-    def __init__(
-        self,
-        image: np.ndarray,
-        noise_map: np.ndarray,
-        grid: np.ndarray,
-    ):
+    def __init__(self, image: np.ndarray, noise_map: np.ndarray, grid: np.ndarray):
         """
         The analysis class for the **PyAutoFit** example Astronomy project on gravitational lensing.
 
@@ -93,7 +88,7 @@ class Analysis(af.Analysis):
 
         return log_likelihood
 
-    def visualize(self, paths : af.DirectoryPaths, instance, during_analysis):
+    def visualize(self, paths: af.DirectoryPaths, instance, during_analysis):
         """
         Visualizes the maximum log likelihood model-fit to the strong lens data so far in the non-linear search, as
         well as at the end of the search.
@@ -174,9 +169,7 @@ class Analysis(af.Analysis):
                     scaled_grid -= scaled_deflections
 
             grids_at_planes.append(scaled_grid)
-            deflections_at_planes.append(
-                galaxy.deflections_from_grid(grid=scaled_grid)
-            )
+            deflections_at_planes.append(galaxy.deflections_from_grid(grid=scaled_grid))
 
         return grids_at_planes
 
