@@ -8,10 +8,12 @@ https://github.com/rhayes777/PyAutoFit
 
 https://pyautofit.readthedocs.io/en/latest/
 
-The project contains four example Jupyter notebooks:
+The project contains three example Jupyter notebooks (the hands on tutorial will focus on example 1):
 
 - ``example_1_introduction.ipynb`` - An introduction to **PyAutoFit**'s core features.
 - ``example_2_lensing.ipynb`` & ``example_3_topological_models.ipynb`` - An Astronomy example which uses strong gravitational lensing to illustrate topological model composition with **PyAutoFit**.
+
+The hands-on tutorial is scheduled for **3pm (coopenhagen time) Thursday 27th May**.
 
 Binder (Recommended)
 --------------------
